@@ -1,0 +1,13 @@
+Script:
+Hola 👋, Rocketbot te da la bienvenida.
+
+Es tiempo de cuidarnos. Durante este período de contingencia nuestro Guía Bot seguirá atendiéndote las 24 ⏰ horas del día.
+
+**Elige tu opción ingresando el número (Sólo dígitos)
+
+1. Saldos y Pagos
+2. Consumo a la Fecha
+3. Conoce tu Plan
+4. Ofertas Movistar
+5. Fallas Técnicas
+6. Tips en Cuarentena
